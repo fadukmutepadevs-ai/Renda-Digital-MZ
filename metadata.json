@@ -1,0 +1,6 @@
+{
+  "name": "Renda Digital MZ",
+  "description": "Portal rápido e confiável sobre renda extra, trabalho remoto, ferramentas gratuitas e negócios digitais em Moçambique e no mundo lusófono.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
